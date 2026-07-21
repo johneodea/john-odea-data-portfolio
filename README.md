@@ -158,7 +158,7 @@ Contact
 I'm always interested in conversations at the intersection of healthcare payor operations, data architecture, and AI as organizational intelligence.
 
 Email: john.e.odea@gmail.com
-LinkedIn: linkedin.com/in/john-odea-569259408
+LinkedIn: www.linkedin.com/in/john-o’dea-569359408
 Location: Springfield, OR
 Open to conversations about Principal Data Analyst and Data Architect opportunities in healthcare payor.
 
